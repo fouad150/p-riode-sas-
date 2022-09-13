@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663099370 source:c:\users\hp\desktop\language c\challenge 10(3)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
